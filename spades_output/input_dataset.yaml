@@ -1,0 +1,7 @@
+- "left reads":
+  - "/ocean/projects/agr250001p/mmitche2/Student-Led-Tutorial-2-MM/trimmed_1.fastq"
+  "number": !!int "1"
+  "orientation": "fr"
+  "right reads":
+  - "/ocean/projects/agr250001p/mmitche2/Student-Led-Tutorial-2-MM/trimmed_2.fastq"
+  "type": "paired-end"
